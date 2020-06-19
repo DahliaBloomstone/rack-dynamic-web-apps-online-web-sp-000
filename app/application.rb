@@ -11,6 +11,6 @@ end
 
 #Then run it with rackup config.ru
 #port=60658 shows which port we'll have access the application on in the browser
-#host? localhost
+#host? localhost (IN IDE IT IS THE IP)
 #Your server is running at 157.230.220.151:60658 is the full URL
-#=>Hello, World on page 
+#=>Hello, World on page
