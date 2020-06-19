@@ -7,3 +7,6 @@ class Application
   end
 
 end
+
+
+#Then run it with rackup config.ru
