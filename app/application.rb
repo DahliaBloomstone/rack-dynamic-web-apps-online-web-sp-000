@@ -10,3 +10,4 @@ end
 
 
 #Then run it with rackup config.ru
+#port=60658 shows which port we'll have access the application on in the browser
