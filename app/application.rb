@@ -25,10 +25,13 @@ class Application
     if num_1==num_2 && num_2==num_3
       resp.write "You Win" #puts statement
     else
-      resp.write "You Lose" #puts statement 
+      resp.write "You Lose" #puts statement
     end
 
     resp.finish
   end
 
 end
+
+#write method can be called many times to build up the full response.
+#The response isn't sent back to the user until #finish is called.
